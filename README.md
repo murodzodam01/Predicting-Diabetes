@@ -231,4 +231,4 @@ The project uses the **CDC Behavioral Risk Factor Surveillance System 2023** pub
 
 ## License and responsible use
 
-No repository license is assumed by this README. Add a license file before redistributing code beyond the terms permitted by the data source and dependency licenses. Predictions from this project must not be interpreted as a medical diagnosis.
+MIT License.
