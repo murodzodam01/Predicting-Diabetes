@@ -1,4 +1,4 @@
-# Early Prediction of Diabetes Risk
+﻿# Early Prediction of Diabetes Risk
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
@@ -139,8 +139,8 @@ These rankings are stable across model families and align with established Type 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/murodzodam01/data_mining_project.git
-cd data_mining_project
+git clone https://github.com/murodzodam01/Predicting-Diabetes.git
+cd Predicting-Diabetes
 ```
 
 ### 2. Create an environment and install dependencies
@@ -183,7 +183,7 @@ import pandas as pd
 
 zip_url = (
     "https://raw.githubusercontent.com/murodzodam01/"
-    "data_mining_project/main/data_zip/LLCP2023.XPT.zip"
+    "Predicting-Diabetes/main/data_zip/LLCP2023.XPT.zip"
 )
 
 response = requests.get(zip_url, timeout=300)
@@ -216,7 +216,7 @@ with zipfile.ZipFile(io.BytesIO(response.content)) as archive:
 
 - **Muhammad Murodzoda** - modeling pipeline, nested cross-validation, hyperparameter search, stability analysis, ensembles, resampling, and held-out evaluation
 - **Fatima Iqbal** - dataset and feature selection, feature engineering, class-balance analysis, EDA, modeling methodology, and evaluation metrics
-- **Özlem Ölçer** - dataset and feature selection, cleaning and recoding pipeline, engineered features, and preprocessing documentation
+- **Г–zlem Г–lГ§er** - dataset and feature selection, cleaning and recoding pipeline, engineered features, and preprocessing documentation
 - **Tim Mauscherning** - clinically motivated proxy features, model evaluation, optimization analysis, and robustness checks
 - **Manuel Dieterle** - model-selection discussions, results interpretation, literature comparison, and final report production
 - **Xuemei Wang** - project framing, target definition, evaluation priorities, report structure, and final review
@@ -232,3 +232,4 @@ The project uses the **CDC Behavioral Risk Factor Surveillance System 2023** pub
 ## License and responsible use
 
 MIT License.
+
