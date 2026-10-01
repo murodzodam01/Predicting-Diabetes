@@ -216,7 +216,7 @@ with zipfile.ZipFile(io.BytesIO(response.content)) as archive:
 
 - **Muhammad Murodzoda** - modeling pipeline, nested cross-validation, hyperparameter search, stability analysis, ensembles, resampling, and held-out evaluation
 - **Fatima Iqbal** - dataset and feature selection, feature engineering, class-balance analysis, EDA, modeling methodology, and evaluation metrics
-- **Г–zlem Г–lГ§er** - dataset and feature selection, cleaning and recoding pipeline, engineered features, and preprocessing documentation
+- **Özlem Ölçer** - dataset and feature selection, cleaning and recoding pipeline, engineered features, and preprocessing documentation
 - **Tim Mauscherning** - clinically motivated proxy features, model evaluation, optimization analysis, and robustness checks
 - **Manuel Dieterle** - model-selection discussions, results interpretation, literature comparison, and final report production
 - **Xuemei Wang** - project framing, target definition, evaluation priorities, report structure, and final review
